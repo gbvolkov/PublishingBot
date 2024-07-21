@@ -1,0 +1,10 @@
+schedule
+telebot
+elevenlabs
+openai
+gigachain-cli
+python-dotenv
+torch
+numpy
+num2words
+soundfile
